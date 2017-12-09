@@ -13,5 +13,4 @@ Prabhant's Suggestions:
 [] Amazon earth datasets
 
 Mahir's Suggestions:
-[] https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/data
 [] https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
