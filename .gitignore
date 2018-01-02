@@ -1,0 +1,12 @@
+
+# ignore datasets
+
+corrected
+kddcup.data.corrected
+kddcup.data_10_percent_corrected
+kddcup.names.txt
+kddcup.newtestdata_10_percent_unlabeled
+kddcup.testdata.unlabeled
+kddcup.testdata.unlabeled_10_percent
+training_attack_types.txt
+typo-correction.txt
