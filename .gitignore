@@ -10,3 +10,8 @@ kddcup.testdata.unlabeled
 kddcup.testdata.unlabeled_10_percent
 training_attack_types.txt
 typo-correction.txt
+
+
+# ignore data folder
+
+/data/
